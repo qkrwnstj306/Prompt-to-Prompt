@@ -3,6 +3,6 @@
 
 * image + anime style = anime image
 
-[img0](./imgs/image6.png)
-[img1](./imgs/image7.png)
-[img2](./imgs/image19.png)
+![img0](./imgs/image6.png)
+![img1](./imgs/image7.png)
+![img2](./imgs/image19.png)
